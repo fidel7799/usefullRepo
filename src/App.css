@@ -26,19 +26,6 @@ body {
   font-size: large;
 }
 
-.lizImg {
-  width: 470px;
-  border-radius: 2px;
-  opacity: 0.05;
-}
-
-@media (max-width: 500px) {
-  .lizImg {
-    width: 80%;
-    border-radius: 0.5%;
-  }
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
